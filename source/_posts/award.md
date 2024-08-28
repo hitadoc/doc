@@ -1,5 +1,5 @@
 ---
-title: HitaDAO 积分激励机制
+title: 学赚奖励计划细则
 date: 2024-08-28 10:47:29
 tags:
 ---
