@@ -52,7 +52,7 @@ After you have completed the corresponding HitaDAO operations, you will be eligi
 
   [issue-arrow.png](https://kimi.moonshot.cn/chat/issue-arrow.png)
 
-- **Step 4**: In the title of the issue, enter `Ethereum: Your Nickname`, and in the description, enter your Ethereum wallet address.
+- **Step 4**: Enter your `Ethereum wallet address` in the issue's title.
 
 ## Precautions
 
