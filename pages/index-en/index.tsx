@@ -5,9 +5,10 @@ export default function Home() {
   return (
     <div className='flex flex-col min-h-screen'>
       <Head>
-        <title>HitaDAO Learn-to-Earn Incentive Program Details</title>
+        <title>HitaDAO Learn-to-Earn Incentive Program</title>
         <meta name="keywords" content="HitaDAo,Web3,blockchain"/>
-        <meta name="description" content="HitaDAO Learn-to-Earn Incentive Program Details"/>
+        <meta name="description" content="HitaDAO Learn-to-Earn Incentive Program"/>
+        <link rel="shortcut icon" href="/images/logo.png" type="image/x-icon"/>
       </Head>
       <Content/>
   </div>
