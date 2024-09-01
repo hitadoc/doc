@@ -49,7 +49,7 @@ const Content = () => {
           <hr className="mt-5 mb-5"/>
           <div className="text-red-500 text-[20px] px-[30px] pt-1 font-bold">2. Points Distribution Process</div>
           <div className="text-gray-500 text-[16px] px-[30px] py-[10px] leading-[30px] indent-8">
-            <p>Your earned points will be automatically distributed to your Ethereum wallet address within 2 days via smart contracts.</p>
+            <p>Your earned points will be automatically distributed to your Ethereum wallet address within 1 day via smart contracts.</p>
             <p className="leading-[50px]">Here are the steps to follow:</p>
             <p className="text-blue-500">Step 1. On the <strong>HitaDAO</strong> homepage, go to the <strong>hitadao</strong> project and click on the <strong>Issues</strong> option.</p>
             <p>&nbsp;</p>

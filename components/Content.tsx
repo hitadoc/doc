@@ -49,7 +49,7 @@ const Content = () => {
           <hr className="mt-5 mb-5"/>
           <div className="text-red-500 text-[20px] px-[30px] pt-1 font-bold">2. 积分发放流程</div>
           <div className="text-gray-500 text-[16px] px-[30px] py-[10px] leading-[30px] indent-8">
-          <p>您获得的积分将在 2 天内通过智能合约，自动发放到您的以太坊钱包地址。</p>
+          <p>您获得的积分将在 1 天内通过智能合约，自动发放到您的以太坊钱包地址。</p>
           <p className="leading-[50px]">操作步骤如下：</p>
           <p className="text-blue-500">第一步：在 <strong>HitaDAO</strong> 首页上，进入 <strong>hitadao</strong> 项目，点击 <strong>Issues</strong> 选项。</p>
           <p>&nbsp;</p>
